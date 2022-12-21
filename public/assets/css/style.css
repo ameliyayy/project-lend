@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins';
+    /* background-image: linear-gradient(to right, #82C3EC, #4b56d2ae); */
+}
+
+#table1 {
+    border:0px solid transparent;
+} 
+
+#textlisttoday{
+    margin-left: 140px;
+}
+ 
